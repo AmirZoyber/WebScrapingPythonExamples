@@ -1,5 +1,6 @@
 # WebScraping_PythonEx
 Examples of websites scraping with python.
-divar :
 
-رنامه‌ای بنوسید که آگهی‌های دارای تگ قیمت توافقی در صفحه اول سایت دیوار را استخراج و در خروجی چاپ کند.
+
+divar : 
+Write a program that extracts the ads with the agreed price tag on the first page of the wall site and prints them in the output.
