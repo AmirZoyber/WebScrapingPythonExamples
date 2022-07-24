@@ -5,7 +5,7 @@
 
 ###What is in this repository?
 In all this scripts! 
-```informations of a site will be scrapped and save in differents formats!
+informations of a site will be scrapped and save in differents formats!
 
 
 
