@@ -1,6 +1,12 @@
-# WebScraping_PythonEx
-Examples of websites scraping with python.
+#WebScraping_PythonEx
+
+[![forthebadge made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
+
+```bash
+###What is in this repository?
+In all this scripts! 
+informations of a site will be scrapped and save in differents formats!
+
+```
 
 
-divar : 
-Write a program that extracts the ads with the agreed price tag on the first page of the wall site and prints them in the output.
