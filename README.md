@@ -1,7 +1,7 @@
 # WebScraping_PythonEx   
 
 [![forthebadge made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
-[![label](https://img.shields.io/badge/author-AmirZoyber-orange)](cutomized-route-link)  
+[![label](https://img.shields.io/badge/author-AmirZoyber-orange)](https://www.youtube.com/channel/UCQuvYvdrmJ0S2Mwweactvkw)  
 
 
 ### What is in this repository?   
