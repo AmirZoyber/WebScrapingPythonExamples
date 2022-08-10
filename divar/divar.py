@@ -1,17 +1,18 @@
+# @ AmirZoyber
 import requests
 from bs4 import BeautifulSoup
-a = requests.get("https://divar.ir/s/karaj")
-s = BeautifulSoup(a.text,'html.parser')
-div1 = s.find_all('div',attrs={'class':'post-card-item kt-col-6 kt-col-xxl-4'})
-for i in range(0,len(div1)):
-    x = div1[i]
-    z = x.find('div',attrs={'class':'kt-post-card__description'})
+
+html = requests.get("https://divar.ir/s/karaj")
+source = BeautifulSoup(html.text,'html.parser')
+posts = source.find_all('div',attrs={'class':'post-card-item kt-col-6 kt-col-xxl-4'}) # Find all posts on home page of divar site.
+
+for post in range(posts):
+    tag = post.find('div',attrs={'class':'kt-post-card__description'}) # Find tag in a post.
     try:
-        f = z.text
-        if (f=='توافقی'):
-            print (x.text)
+        tagText = tag.text.strip()
+        if (tagText=='توافقی'):
+            print (tag.text)
         else:
             pass
     except:
-        pass
-    
+        pass 
