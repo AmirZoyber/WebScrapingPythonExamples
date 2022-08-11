@@ -1,7 +1,7 @@
 # Examples of WebScraping with Python    
 
 [![forthebadge made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
-[![label](https://img.shields.io/badge/author-AmirZoyber-orange)](zil.ink/amirzoyber)  
+[![label](https://img.shields.io/badge/author-AmirZoyber-orange)](https://www.zil.ink/amirzoyber)  
 
 
 ### What is in this repository?   
